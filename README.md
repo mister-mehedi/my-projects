@@ -1,4 +1,4 @@
-# My GitHub Projects
+# Mehedi's Project List
 
 A collection of my repositories.
 
